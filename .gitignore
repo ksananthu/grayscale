@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 # Custom
-./pdf_in
-./pdf_out
+./pdf_in/
+./pdf_out/
